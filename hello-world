@@ -1,0 +1,12 @@
+// created by: Teddy Laurita
+// created on: 1/25/16
+// prints "Hello World" to moniter
+
+#include<iostream> 
+using namespace std;
+
+int main
+{
+        cout << "Hello World" << endl;
+        return 0;
+}
